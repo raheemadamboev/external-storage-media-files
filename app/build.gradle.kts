@@ -57,11 +57,17 @@ dependencies {
     implementation(libs.compose.preview)
     implementation(libs.compose.material3)
 
+    // compose icons
+    implementation(libs.compose.icons)
+
     // compose activity
     implementation(libs.compose.activity)
 
     // compose lifecycle
     implementation(libs.compose.lifecycle)
+
+    // compose coil
+    implementation(libs.compose.coil)
 
     // core
     implementation(libs.core)
